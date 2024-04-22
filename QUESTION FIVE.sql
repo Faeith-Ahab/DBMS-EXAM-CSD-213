@@ -59,3 +59,12 @@ JOIN courses ON students.Cno = courses.Cno;
 SELECT *
 FROM Students
 ORDER BY SGPA ASC;
+
+
+--ROLE OF DB ADMIN
+
+--Designing database
+--Managing a database
+--Troubleshooting the database
+--Optimising performance of the database
+--Ensuring databackup
